@@ -42,5 +42,6 @@ namespace Pradeep
 ~~~
 
 ## Output:
-![image](https://user-images.githubusercontent.com/75260837/187343513-9742272e-87a9-4586-a91f-ee49629cd127.png)## Result:
+![image](https://user-images.githubusercontent.com/75260837/187343513-9742272e-87a9-4586-a91f-ee49629cd127.png)
+## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
